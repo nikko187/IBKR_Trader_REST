@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IBKR_Trader_REST
 {
-    internal class Auth_Status
+    public class Auth_Status
     {
         public class Rootobject
         {
